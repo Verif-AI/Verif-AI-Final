@@ -1,0 +1,6 @@
+[submodule "backend_repo"]
+	path = backend_repo
+	url = git@github.com:Verif-AI/backend.git
+[submodule "browser_repo"]
+	path = browser_repo
+	url = git@github.com:Verif-AI/browser.git
